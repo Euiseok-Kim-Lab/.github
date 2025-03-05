@@ -7,26 +7,6 @@ Welcome to the official GitHub organization for the Euiseok Kim Neuroscience Lab
 
 The mammalian cortex is composed of numerous functionally specialized areas. Interactions between these areas, mediated by widespread yet precise cell type specific circuits, are central to the neural computations that generate perception, cognition, and behavior. Our research aims to develop a circuit-level understanding of this brain-wide neural network to elucidate fundamentals of the brain, mind, and behavior.
 
-Our key research questions include:
-
-**In the mature brain:**
-- What are the connectivity and functional bases of neural circuits at the cellular level?
-- What are the identities of brain-wide input and output neurons?
-- How do these neurons functionally contribute to information processing?
-
-**In the developing brain:**
-- What are the mechanisms that match gene expression to neuronal connectivity?
-- How does a population of neural progenitors in a single cortical area develop into diverse subtypes projecting to particular brain areas?
-- How do genetic programs and neuronal activity interact to construct connectivity?
-
-We use innovative approaches including:
-- Novel trans-synaptic tracers and next-generation viral tracers
-- Mouse genetics
-- Single-cell genome-wide sequencing
-- In vivo imaging
-
-Our research has implications for understanding neurodevelopmental disorders such as autism and schizophrenia.
-
 ## Publications
 
 For a complete list of our publications, please visit our [lab website](https://www.euiseokimlab.ucsc.edu/publications) or view our [Google Scholar profile](https://scholar.google.com/).
