@@ -9,7 +9,7 @@ The mammalian cortex is composed of numerous functionally specialized areas. Int
 
 ## Publications
 
-For a complete list of our publications, please visit our [lab website](https://www.euiseokimlab.ucsc.edu/publications) or view our [Google Scholar profile](https://scholar.google.com/).
+For a complete list of our publications, please visit our [lab website](https://www.ejkimlab.com/publications-2/) or view our [Google Scholar profile](https://scholar.google.com/citations?user=qbRcR1IAAAAJ&hl=en).
 
 ## Contact
 
