@@ -16,8 +16,8 @@ For a complete list of our publications, please visit our [lab website](https://
 Dr. Euiseok Kim, Principal Investigator  
 Department of Neuroscience  
 University of California, Santa Cruz  
-Email: euiseok@ucsc.edu  
-Lab Website: [www.euiseokimlab.ucsc.edu](https://www.euiseokimlab.ucsc.edu)
+Email: ekim62@ucsc.edu  
+Lab Website: https://www.ejkimlab.com/
 
 ## Licensing
 
